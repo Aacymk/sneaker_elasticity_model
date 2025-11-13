@@ -66,5 +66,6 @@ All models captured over 91% of variance, proving strong linear relationships be
 
 Donovan Aus
 Mathematics Major & Aspiring Data Analyst
-University of Maryland, College Park
+University of Maryland, College Park.
+
 Focus: Predictive modeling, econometrics, and financial data analytics
